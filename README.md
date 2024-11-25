@@ -19,8 +19,6 @@
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" height="50" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" height="50" alt="express logo"  />
-  <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" height="50" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original.svg" height="50" alt="typescript logo"  />
@@ -32,8 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" height="50" alt="css3 logo"  />
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="50" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="50" alt="bootstrap logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="15" />
