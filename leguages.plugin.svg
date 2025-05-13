@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 6.11kb of code in 5 edited files across 2 commits over last 12 days</small>
+                <small>estimation from 6.11kb of code in 5 edited files across 2 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -40,10 +40,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.14696912292374" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="427.14696912292374" y="0" width="31.333400764255213" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.48036988717894" y="0" width="1.4967607442316562" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.9771306314106" y="0" width="0.022869368589419403" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.03422815686235" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="427.03422815686235" y="0" width="31.325130641493004" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.35935879835534" y="0" width="1.617777869185404" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.9771366675408" y="0" width="0.02286333245924791" height="8" fill="#198CE7"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
