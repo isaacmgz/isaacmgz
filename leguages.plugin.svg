@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 163kb of code in 27 edited files across 22 commits over last 4 days</small>
+                <small>estimation from 163kb of code in 27 edited files across 22 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -47,10 +47,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="395.1655653851232" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="395.1655653851232" y="0" width="60.88845003473199" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="456.0540154198552" y="0" width="3.926838929680638" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.9808543495359" y="0" width="0.01914565046414568" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.5059642217789" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="391.5059642217789" y="0" width="64.58459469028563" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="456.0905589120645" y="0" width="3.890472744025469" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.98103165609" y="0" width="0.018968343910009854" height="8" fill="#198CE7"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
